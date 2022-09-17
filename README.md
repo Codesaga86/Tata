@@ -1,2 +1,2 @@
 # Tata
-indica project
+indica project for learning
